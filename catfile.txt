@@ -1,0 +1,9 @@
+line one
+line two cat
+line three
+
+line 5
+line 6 cat
+line seven
+special character line !"#¤%&/();
+last line
